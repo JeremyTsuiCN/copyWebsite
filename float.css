@@ -1,0 +1,15 @@
+.fl{
+	float: left;
+}
+
+.fr{
+	float: right;
+}
+
+.rt{
+	position: relative;
+}
+
+.getRed{
+    color: red;
+}
