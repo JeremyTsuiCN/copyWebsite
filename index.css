@@ -21,7 +21,7 @@ p{word-wrap:break-word}
 .main_icon{
 	width: 70px;
 	height: 50px;
-	background: url(../img/zhihu_index.png) 0 0;
+	background: url(zhihu_index.png) 0 0;
 }
 
 .header li{
@@ -77,7 +77,7 @@ p{word-wrap:break-word}
 .bell_icon{
 	width: 30px;
 	height: 30px;
-	background: url(../img/zhihu_index.png) -130px -25px;
+	background: url(zhihu_index.png) -130px -25px;
 	margin-left: 40px;
 	margin-top: 8px;
 }
@@ -86,7 +86,7 @@ p{word-wrap:break-word}
 	margin-top: 8px;
 	width: 30px;
 	height: 30px;
-	background: url(../img/zhihu_index.png) -267px 0;
+	background: url(zhihu_index.png) -267px 0;
 	margin-left: 40px;
 }
 
@@ -171,7 +171,7 @@ p{word-wrap:break-word}
 .agree div{
 	width: 18px;
 	height: 16px;
-	background: url(../img/zhihu_index.png) 0 -55px;
+	background: url(zhihu_index.png) 0 -55px;
 	margin: 6px 5px 0 5px;
 }
 
@@ -192,7 +192,7 @@ p{word-wrap:break-word}
 .disagree div{
 	width: 18px;
 	height: 16px;
-	background: url(../img/zhihu_index.png) 0 -75px;
+	background: url(zhihu_index.png) 0 -75px;
 	margin: 5px 5px 0 5px;
 }
 .comment{
@@ -221,20 +221,20 @@ p{word-wrap:break-word}
 }
 
 .s1{
-	background: url(../img/zhihu_index.png) -250px 0;
+	background: url(zhihu_index.png) -250px 0;
 }
 .s2{
 
-	background: url(../img/zhihu_index.png) 0 -180px;
+	background: url(zhihu_index.png) 0 -180px;
 }
 .s3{
-	background: url(../img/zhihu_index.png) 0 -160px;
+	background: url(zhihu_index.png) 0 -160px;
 }
 .s4{
-	background: url(../img/zhihu_index.png) 0 -95px;
+	background: url(zhihu_index.png) 0 -95px;
 }
 .s5{
-	background: url(../img/zhihu_index.png) 0 -230px;
+	background: url(zhihu_index.png) 0 -230px;
 	vertical-align: bottom;
 }
 
@@ -270,18 +270,18 @@ p{word-wrap:break-word}
 .writing_icon .s1{
 	width: 20px;
 	height: 20px;
-	background: url(../img/zhihu_index.png) -5px -200px;
+	background: url(zhihu_index.png) -5px -200px;
 }
 .writing_icon .s2{
 	width: 20px;
 	height: 20px;
-	background: url(../img/zhihu_index.png) -78px -2px;
+	background: url(img/zhihu_index.png) -78px -2px;
 }
 
 .writing_icon .s3{
 	width: 20px;
 	height: 20px;
-	background: url(../img/zhihu_index.png) -2px -138px;
+	background: url(img/zhihu_index.png) -2px -138px;
 }
 
 .icon_middle{
@@ -307,7 +307,7 @@ p{word-wrap:break-word}
 	width: 30px;
 	height: 30px;
 	margin-right: 80px;
-	background: url(../img/zhihu_index.png) -100px -25px;
+	background: url(zhihu_index.png) -100px -25px;
 
 }
 
@@ -316,13 +316,13 @@ p{word-wrap:break-word}
 	width: 30px;
 	height: 30px;
 	margin-right: 80px;
-	background: url(../img/zhihu_index.png) -100px -25px;
+	background: url(zhihu_index.png) -100px -25px;
 }
 .discuss i{
 	display: inline-block;
 	width: 30px;
 	height: 30px;
-	background: url(../img/zhihu_index.png) -100px 2px;
+	background: url(img/zhihu_index.png) -100px 2px;
 
 }
 .special{
@@ -333,7 +333,7 @@ p{word-wrap:break-word}
 	width: 30px;
 	height: 30px;
 	margin-right: 80px;
-	background: url(../img/zhihu_index.png) -155px -0px;
+	background: url(zhihu_index.png) -155px -0px;
 }
 .inquery{
 	margin-top: 10px;
@@ -342,7 +342,7 @@ p{word-wrap:break-word}
 	display: inline-block;
 	width: 30px;
 	height: 30px;
-	background: url(../img/zhihu_index.png) -193px -0px;
+	background: url(zhihu_index.png) -193px -0px;
 }
 .container_r_ad{
 	margin-top: 10px;
@@ -369,7 +369,7 @@ p{word-wrap:break-word}
 	display: inline-block;
 	width: 20px;
 	height: 20px;
-	background: url(../img/zhihu_index.png) 0px -160px;
+	background: url(zhihu_index.png) 0px -160px;
 	vertical-align: bottom;
 }
 
@@ -377,7 +377,7 @@ p{word-wrap:break-word}
 	display: inline-block;
 	width: 20px;
 	height: 20px;
-	background: url(../img/zhihu_index.png) -130px 0px;
+	background: url(zhihu_index.png) -130px 0px;
 	vertical-align: middle;
 }
 
@@ -385,7 +385,7 @@ p{word-wrap:break-word}
 	display: inline-block;
 	width: 20px;
 	height: 20px;
-	background: url(../img/zhihu_index.png)  0px -250px;
+	background: url(zhihu_index.png)  0px -250px;
 	vertical-align: middle;
 }
 
@@ -393,7 +393,7 @@ p{word-wrap:break-word}
 	display: inline-block;
 	width: 20px;
 	height: 20px;
-	background: url(../img/zhihu_index.png) 0 -270px ;
+	background: url(zhihu_index.png) 0 -270px ;
 	vertical-align: middle;
 }
 
@@ -402,7 +402,7 @@ p{word-wrap:break-word}
 	width: 20px;
 	height: 20px;
 
-	background: url(../img/zhihu_index.png) 0px -160px;
+	background: url(zhihu_index.png) 0px -160px;
 	vertical-align: middle;
 }
 .right{
@@ -410,6 +410,6 @@ p{word-wrap:break-word}
 	width: 20px;
 	height: 20px;
 
-	background: url(../img/zhihu_index.png) -225px 0px;
+	background: url(zhihu_index.png) -225px 0px;
 	vertical-align: middle;
 }
